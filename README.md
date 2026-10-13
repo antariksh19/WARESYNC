@@ -1,6 +1,5 @@
 <div align="center">
-  <!-- Replace with an actual GIF of the WARESYNC dashboard in action -->
-  <img src="./images/banner.png" alt="WARESYNC Banner" width="100%">
+  
 
   <h1>WARESYNC 📦</h1>
   
@@ -65,7 +64,7 @@ This application requires a standard LAMP/XAMPP stack to run locally.
 
 **1. Clone the repository:**
 ```bash
-git clone [https://github.com/antariksh19/WARESYNC.git](https://github.com/antariksh19/WARESYNC.git)
+git clone https://github.com/antariksh19/WARESYNC.git
 cd WARESYNC
 ```
 
